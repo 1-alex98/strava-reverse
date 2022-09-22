@@ -1,0 +1,1 @@
+Uses Open Street maps to find all points X meters from a starting point. Can be used to find the original starting location if strava cuts off the first X meters of a run.
